@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+section {
+    background-color: #4E515B;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: #9dcd96;
+    border-radius: 5px;
+}
+
+button-dark {
+    background-color: #32383E;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+}
